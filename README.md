@@ -42,3 +42,11 @@ Generar una nueva clave de aplicación
 Inicializar el servidor
 
     php artisan serve
+
+Visualizacion del proyecto
+    
+![CrudLaravel](https://github.com/KelvinAlvear19/CRUD-Laravel/assets/84355086/f9ef3882-e456-4e93-ba63-5ecbfaec97d2)
+
+![WhatsApp Image 2024-01-03 at 10 27 47 AM](https://github.com/KelvinAlvear19/CRUD-Laravel/assets/84355086/d97946d8-d6dc-46da-b7ae-ba8a9b59f407)
+
+![WhatsApp Image 2024-01-03 at 10 28 28 AM](https://github.com/KelvinAlvear19/CRUD-Laravel/assets/84355086/0fc5453d-82f6-4c79-b70e-13d426b1f1e8)
