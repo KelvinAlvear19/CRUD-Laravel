@@ -14,9 +14,11 @@ Asegúrate de tener instalados los siguientes requisitos en tu sistema:
 
 - PHP >= 7.x
 - Composer (https://getcomposer.org/)
-- Mi version de composer 2.3.5
+- <img alt="Static Badge" src="https://img.shields.io/badge/Composer-%20version%202.3.5-%20green">
+
 - MySQL o cualquier otro sistema de gestión de bases de datos soportado por Laravel
-- 
+- <img alt="Static Badge" src="https://img.shields.io/badge/XAMP-%20Mysql-%20orange">
+
 Por favor, consulte la guía oficial de instalación de laravel para los requisitos del servidor antes de empezar.
 
 Clonar el repositorio
