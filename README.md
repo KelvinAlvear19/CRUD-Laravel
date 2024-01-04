@@ -5,8 +5,18 @@
 
 Laravel es un framework de aplicaciones web con una sintaxis expresiva y elegante. Creemos que el desarrollo debe ser una experiencia agradable y creativa para ser realmente satisfactorio.
 
-## Instalación
+## Importante
+- Dentro de la carpeta QuintoSoa/models se encontratan los servicios de la aplicacion que deberan copiarse y pegarse dentro de htdocs(XAMP).
+- Dentro de la carpeta Base_de_Datos se encontrara el .sql que e sebera instalar.
 
+## Instalación
+Asegúrate de tener instalados los siguientes requisitos en tu sistema:
+
+- PHP >= 7.x
+- Composer (https://getcomposer.org/)
+- Mi version de composer 2.3.5
+- MySQL o cualquier otro sistema de gestión de bases de datos soportado por Laravel
+- 
 Por favor, consulte la guía oficial de instalación de laravel para los requisitos del servidor antes de empezar.
 
 Clonar el repositorio
@@ -28,3 +38,7 @@ Copia el archivo env de ejemplo y realiza los cambios de configuración necesari
 Generar una nueva clave de aplicación
 
     php artisan clave:generar
+
+Inicializar el servidor
+
+    php artisan serve
